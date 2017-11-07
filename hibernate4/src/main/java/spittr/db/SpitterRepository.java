@@ -6,8 +6,10 @@ import spittr.domain.Spitter;
 
 /**
  * Repository interface with operations for {@link Spitter} persistence.
- * @author habuma
+ * @author 于振泉   这是在eclipse中改的
  */
+
+
 public interface SpitterRepository {
 
   long count();
